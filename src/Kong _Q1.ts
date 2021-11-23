@@ -7,3 +7,7 @@ Employees = [
     [4, "Chawanwit", 2, 0, 0,0],
     [5, "Thanakorn", 1, 0, 0,0]
 ];
+
+Employees.forEach(e=>{
+    console.log(e);
+});
